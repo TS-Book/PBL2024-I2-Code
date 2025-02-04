@@ -1,4 +1,5 @@
 // From: https://makezine.com/article/technology/robotics/robot-quadruped-arduino-program/
+// Creep gait
 
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
