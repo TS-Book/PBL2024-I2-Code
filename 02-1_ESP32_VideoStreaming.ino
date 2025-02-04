@@ -1,3 +1,6 @@
+// Need to have the library file to make the camera work
+// Check and download the tutorial at https://store.freenove.com/products/fnk0060
+
 #include "esp_camera.h"
 #include <WiFi.h>
 #include <WiFiUdp.h>
